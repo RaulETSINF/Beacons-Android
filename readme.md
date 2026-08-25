@@ -195,8 +195,3 @@ La configuración de Gradle incluye la dependencia de la biblioteca de beacons.
 implementation("org.altbeacon:android-beacon-library:2.19.3")
 ```
 
-
-## Dificultades encontradas y como se han resuelto
-
-En primer lugar, nunca había escuchado el concepto de Beacon, por lo que tuve que investigar y leer documentación sobre su uso y propósito. Esta práctica, aunque más corta en contenido comparada con otras, me ha resultado sumamente interesante. La implementación no es excesivamente compleja, pero a través de esta práctica he podido explorar conceptos nuevos y descubrir el potencial que tienen los Beacons. Me ha permitido ampliar mis conocimientos en una tecnología que desconocía.
-
