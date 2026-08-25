@@ -1,6 +1,4 @@
 # Proyecto de Beacons
-
-## Nombre del alumno
 Raúl Piqueras Melero
 
 ## Descripción general del proyecto
